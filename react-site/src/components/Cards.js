@@ -5,10 +5,10 @@ import './Cards.css'
 
 function Cards() {
     return (
-        <div className='cards'>
+        <div className='cards' id='cards'>
             <h1>My Recent Projects</h1>
             <div className="cards__container">
-                <div className="cards_wrapper">
+                <div className="cards_wrapper" >
                     <ul className="cards__items"> 
                         
                         <CardItem

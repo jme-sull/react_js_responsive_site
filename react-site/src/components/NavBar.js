@@ -47,11 +47,7 @@ function NavBar() {
                             Projects
                         </Link>
                     </li>
-                    <li className='nav-item'>
-                        <Link to='/bio' className="nav-links" onClick={closeMobileMenu}>
-                            Bio
-                        </Link>
-                    </li>
+    
                     <li className='nav-item'>
                         <Link to='/contact' className="nav-links" onClick={closeMobileMenu}>
                             Contact Me

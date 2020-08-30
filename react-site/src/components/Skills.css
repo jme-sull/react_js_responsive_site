@@ -1,0 +1,30 @@
+.skills-container {
+    height: 60vh;
+    text-align: center;
+    font-size: 3rem;
+    color: #ffffff;
+    margin-top: 2%;
+    
+}
+
+.skils-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 10px, 0, 10px, 0;
+  }
+
+.skills-inner-wrapper {
+    margin-top: 5%;
+
+
+}
+
+.skills-inner-wrapper h3 {
+    font-size: 2.5rem;
+}
+
+.skills-inner-wrapper ul {
+    text-decoration: none;
+    font-size: 1.75rem;
+    list-style-type: none;
+}
